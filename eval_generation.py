@@ -8,16 +8,14 @@ from bonsai_export import bonsai_export_runner
 from utils import read_file, save_file
 
 
-data_file = 'dataset/data4.txt'
-
-main_prompt = read_file('dataset/data.txt')
+data_file = 'dataset/data.txt'
 
 save_file(data_file, main_prompt) # init
 
 generation_data = []
 ai_choices = []
 
-for i in range(28, 100):
+for i in range(100):
     print(f'round {i}')
     prompt = read_file(data_file)
     # response = base_model(prompt)
