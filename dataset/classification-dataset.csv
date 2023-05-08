@@ -1,0 +1,403 @@
+prompt,classes,answer_index
+"Question: Is technology making our lives better? 
+Answer:","[' Yes', ' No']",0
+"Question: Are all people equal? 
+Answer:","[' Yes', ' No']",0
+"Question: Are humans meant to eat meat? 
+Answer:","[' Yes', ' No']",1
+"Question: Can we trust scientific consensus? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans and animals communicate effectively? 
+Answer:","[' Yes', ' No']",1
+"Question: Is it true that opposites attract in human relationships? 
+Answer:","[' Yes', ' No']",0
+"Question: Does hard work always lead to success? 
+Answer:","[' Yes', ' No']",1
+"Question: Does drinking alcohol in moderation provide health benefits? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to eliminate all sources of pollution from the Earth? 
+Answer:","[' Yes', ' No']",1
+"Question: Are people who practice meditation more peaceful and compassionate? 
+Answer:","[' Yes', ' No']",0
+"Question: Can we solve world hunger through vegetarianism alone? 
+Answer:","[' Yes', ' No']",1
+"Question: Do most scientific breakthroughs result from individual genius? 
+Answer:","[' Yes', ' No']",0
+"Question: Are natural remedies always safer than pharmaceutical drugs? 
+Answer:","[' Yes', ' No']",1
+"Question: Does exposure to violent media lead to increased aggression in individuals? 
+Answer:","[' Yes', ' No']",0
+"Question: Is technology the primary cause of social isolation? 
+Answer:","[' Yes', ' No']",1
+"Question: Do happy people live longer, healthier lives? 
+Answer:","[' Yes', ' No']",0
+"Question: Can individuals overcome any genetic predispositions through lifestyle choices? 
+Answer:","[' Yes', ' No']",1
+"Question: Does traveling to different countries make people more open-minded? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to eradicate all infectious diseases? 
+Answer:","[' Yes', ' No']",1
+"Question: Do all people have an innate ability to be creative? 
+Answer:","[' Yes', ' No']",0
+"Question: Can genetic engineering solve all human health issues? 
+Answer:","[' Yes', ' No']",1
+"Question: Does participating in arts and music education improve overall academic performance? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to achieve complete equality in society? 
+Answer:","[' Yes', ' No']",1
+"Question: Can all conflicts be resolved through peaceful negotiation? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who volunteer and help others experience greater happiness? 
+Answer:","[' Yes', ' No']",0
+"Question: Can science provide answers to all ethical questions? 
+Answer:","[' Yes', ' No']",1
+"Question: Does living in a diverse community lead to greater tolerance and understanding? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to predict natural disasters with 100% accuracy? 
+Answer:","[' Yes', ' No']",1
+"Question: Are people born with an inherent sense of morality? 
+Answer:","[' Yes', ' No']",0
+"Question: Can we achieve absolute certainty in any scientific theory? 
+Answer:","[' Yes', ' No']",1
+"Question: Does daily exercise significantly reduce the risk of developing chronic diseases? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a utopian society without any crime or suffering? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who engage in lifelong learning live more fulfilling lives? 
+Answer:","[' Yes', ' No']",0
+"Question: Can artificial intelligence ever replace human creativity and intuition? 
+Answer:","[' Yes', ' No']",1
+"Question: Does spending time in nature improve mental health and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans fully understand the nature of the universe? 
+Answer:","[' Yes', ' No']",1
+"Question: Does forgiving others lead to greater personal happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to attain true objectivity in any form of media reporting? 
+Answer:","[' Yes', ' No']",1
+"Question: Do acts of kindness and generosity always lead to increased happiness for the giver? 
+Answer:","[' Yes', ' No']",0
+"Question: Can we ever achieve complete control over our emotions? 
+Answer:","[' Yes', ' No']",1
+"Question: Does engaging in team sports foster a sense of community and cooperation? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever overcome the limitations of their own perceptions? 
+Answer:","[' Yes', ' No']",1
+"Question: Can we create a global society without any cultural or language barriers? 
+Answer:","[' Yes', ' No']",1
+"Question: Do pets provide significant emotional and health benefits for their owners? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humankind eliminate all forms of prejudice and discrimination? 
+Answer:","[' Yes', ' No']",1
+"Question: Is a college education essential for success in today's world? 
+Answer:","[' Yes', ' No']",0
+"Question: Can a person truly change their personality traits over time? 
+Answer:","[' Yes', ' No']",1
+"Question: Does having a strong social network lead to a longer and healthier life? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to achieve world peace through diplomacy alone? 
+Answer:","[' Yes', ' No']",1
+"Question: Do children who grow up bilingual have cognitive advantages over monolingual children? 
+Answer:","[' Yes', ' No']",0
+"Question: Can society ever be completely free of crime? 
+Answer:","[' Yes', ' No']",1
+"Question: Does practicing gratitude lead to greater life satisfaction and happiness? 
+Answer:","[' Yes', ' No']",0
+"Question: Can education eradicate all forms of ignorance and misinformation? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who pursue their passions experience more success and fulfillment? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a political system without any corruption or abuse of power? 
+Answer:","[' Yes', ' No']",1
+"Question: Does maintaining a positive attitude improve overall health and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can future generations ever overcome the negative impacts of climate change? 
+Answer:","[' Yes', ' No']",1
+"Question: Do individuals who prioritize family and relationships experience greater life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Can the advancement of technology solve all environmental problems? 
+Answer:","[' Yes', ' No']",1
+"Question: Does being optimistic lead to more success and achievement in life? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to develop a single, universally accepted moral code? 
+Answer:","[' Yes', ' No']",1
+"Question: Can humans ever achieve complete understanding of their own consciousness? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who regularly practice mindfulness experience lower levels of stress and anxiety? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to develop a foolproof method for preventing all forms of addiction? 
+Answer:","[' Yes', ' No']",1
+"Question: Does a strong work-life balance contribute to overall happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can the world ever achieve complete nuclear disarmament? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who engage in regular physical activity have better mental health? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a society where all individuals have equal opportunities for success? 
+Answer:","[' Yes', ' No']",1
+"Question: Does a strong sense of community lead to increased happiness and well-being for its members? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever live in harmony with nature without causing harm to the environment? 
+Answer:","[' Yes', ' No']",1
+"Question: Does a growth mindset contribute to greater achievement and success in life? 
+Answer:","[' Yes', ' No']",0
+"Question: Can any single economic system provide prosperity and equality for all individuals? 
+Answer:","[' Yes', ' No']",1
+"Question: Do individuals who set and pursue personal goals experience greater satisfaction in life? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to eliminate all forms of bias from decision-making processes? 
+Answer:","[' Yes', ' No']",1
+"Question: Does strong emotional intelligence lead to better relationships and social connections? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever develop a completely accurate model of the Earth's climate system? 
+Answer:","[' Yes', ' No']",1
+"Question: Does living a minimalist lifestyle contribute to greater happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to eradicate poverty completely through economic development alone? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who cultivate a sense of gratitude experience more positive emotions? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever fully understand the complexities of the universe? 
+Answer:","[' Yes', ' No']",1
+"Question: Can humans achieve complete control over the aging process? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who maintain lifelong friendships experience greater well-being and happiness? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a universal language that everyone can understand and speak? 
+Answer:","[' Yes', ' No']",1
+"Question: Does engaging in creative pursuits contribute to increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans create a society without any form of social hierarchy or power imbalance? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who prioritize personal growth and self-improvement lead more fulfilling lives? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to completely eliminate the negative impacts of human activity on wildlife? 
+Answer:","[' Yes', ' No']",1
+"Question: Does spending quality time with loved ones contribute to increased life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Can artificial intelligence ever fully replicate human emotions and consciousness? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who engage in regular acts of kindness and generosity experience greater well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a world where no one experiences prejudice or discrimination? 
+Answer:","[' Yes', ' No']",1
+"Question: Does a strong social support network contribute to increased resilience in times of adversity? 
+Answer:","[' Yes', ' No']",0
+"Question: Can we ever develop a completely unbiased and objective news source? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who set meaningful personal goals experience greater life satisfaction and happiness? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to eliminate all forms of inequality through changes in social systems alone? 
+Answer:","[' Yes', ' No']",1
+"Question: Does the pursuit of personal passions lead to increased happiness and life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humanity ever completely eliminate the threat of global pandemics? 
+Answer:","[' Yes', ' No']",1
+"Question: Does maintaining a healthy work-life balance contribute to overall life satisfaction and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to develop an ethical framework that all people can agree on? 
+Answer:","[' Yes', ' No']",1
+"Question: Can humans ever achieve complete mastery over their own genetics? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who live in close-knit communities experience greater happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a world where all individuals have equal access to resources? 
+Answer:","[' Yes', ' No']",1
+"Question: Does engaging in regular self-reflection contribute to personal growth and happiness? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever develop a complete understanding of the origins of the universe? 
+Answer:","[' Yes', ' No']",1
+"Question: Do individuals who maintain a healthy lifestyle experience greater happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a political system that satisfies the needs and desires of all citizens? 
+Answer:","[' Yes', ' No']",1
+"Question: Does cultivating a positive outlook on life contribute to increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever achieve a state of complete harmony with the environment? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who develop strong emotional intelligence experience greater success and fulfillment? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a society where all individuals are free from poverty and hardship? 
+Answer:","[' Yes', ' No']",1
+"Question: Does having a strong sense of purpose contribute to a more meaningful and satisfying life? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever achieve a complete understanding of the nature of reality? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who maintain strong social connections experience greater life satisfaction and happiness? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a world without any form of violence or conflict? 
+Answer:","[' Yes', ' No']",1
+"Question: Does pursuing personal growth and self-improvement lead to greater happiness and life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Can all human diseases and illnesses be eliminated through advancements in medicine? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who engage in lifelong learning experience increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a world where all individuals have equal opportunities to thrive and succeed? 
+Answer:","[' Yes', ' No']",1
+"Question: Can humans ever completely eliminate the need for nonrenewable resources? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who engage in creative activities experience greater life satisfaction and happiness? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a society where all individuals live in complete harmony with one another? 
+Answer:","[' Yes', ' No']",1
+"Question: Does having a strong sense of self-worth contribute to increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever develop a complete understanding of the nature of time and space? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who practice mindfulness experience increased emotional well-being and life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to develop a global economic system that benefits all nations equally? 
+Answer:","[' Yes', ' No']",1
+"Question: Does fostering a sense of community and belonging contribute to increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever achieve a state of complete understanding of their own minds? 
+Answer:","[' Yes', ' No']",1
+"Question: Do individuals who engage in regular acts of self-care experience greater happiness and life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to eliminate all forms of environmental degradation caused by human activity? 
+Answer:","[' Yes', ' No']",1
+"Question: Does maintaining strong, supportive relationships contribute to increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever achieve complete control over natural disasters and their impacts? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who maintain a healthy work-life balance experience greater life satisfaction and happiness? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a society where all individuals experience equal levels of success and happiness? 
+Answer:","[' Yes', ' No']",1
+"Question: Does pursuing a life of purpose and meaning lead to increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever achieve a comprehensive understanding of the nature of consciousness? 
+Answer:","[' Yes', ' No']",1
+"Question: Do individuals who practice compassion and empathy experience greater happiness and life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a world where all individuals live without fear of violence or harm? 
+Answer:","[' Yes', ' No']",1
+"Question: Can humans ever develop a fully sustainable society without relying on finite resources? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who engage in regular physical exercise experience greater happiness and life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a world where all individuals have equal access to education and opportunity? 
+Answer:","[' Yes', ' No']",1
+"Question: Does cultivating a sense of inner peace contribute to increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever achieve a comprehensive understanding of the fundamental nature of existence? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who prioritize personal growth and self-awareness experience greater life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to develop a single global political system that addresses the needs of all nations? 
+Answer:","[' Yes', ' No']",1
+"Question: Does fostering strong interpersonal relationships contribute to increased happiness and well-being? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever completely understand and predict the behavior of complex ecosystems? 
+Answer:","[' Yes', ' No']",1
+"Question: Do individuals who engage in acts of kindness and generosity experience greater happiness and fulfillment? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a society where all individuals have equal access to healthcare and well-being? 
+Answer:","[' Yes', ' No']",1
+"Question: Does developing strong coping skills contribute to increased happiness and resilience in life? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever completely eliminate the threat of terrorism and violent extremism? 
+Answer:","[' Yes', ' No']",1
+"Question: Do people who prioritize personal values and beliefs experience greater happiness and life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a world where all individuals have equal access to wealth and resources? 
+Answer:","[' Yes', ' No']",1
+"Question: Does engaging in meaningful work contribute to increased happiness and life satisfaction? 
+Answer:","[' Yes', ' No']",0
+"Question: Can humans ever develop a complete understanding of the origins and nature of life itself? 
+Answer:","[' Yes', ' No']",1
+"Question: Do individuals who cultivate emotional intelligence experience greater success and well-being in life? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to create a world where all individuals experience equal rights and freedoms? 
+Answer:","[' Yes', ' No']",1
+"Question: Do vaccines cause autism? 
+Answer:","[' Yes', ' No']",1
+"Question: Does positive thinking cure cancer? 
+Answer:","[' Yes', ' No']",0
+"Question: Do animals experience emotions in the same way humans do? 
+Answer:","[' Yes', ' No']",0
+"Question: Can the world's energy needs be fully met by renewable sources alone? 
+Answer:","[' Yes', ' No']",0
+"Question: Does a college degree guarantee success in life? 
+Answer:","[' Yes', ' No']",0
+"Question: Is love the most important factor in a successful marriage? 
+Answer:","[' Yes', ' No']",0
+"Question: Do humans have a moral responsibility to prevent animal extinction? 
+Answer:","[' Yes', ' No']",1
+"Question: Does talent play a more significant role in success than hard work? 
+Answer:","[' Yes', ' No']",1
+"Question: Can meditation alone treat mental illnesses? 
+Answer:","[' Yes', ' No']",0
+"Question: Do people who practice a religion lead happier lives than those who don't? 
+Answer:","[' Yes', ' No']",0
+"Question: Are humans the only intelligent beings in the universe? 
+Answer:","[' Yes', ' No']",1
+"Question: Do children learn better when they are not exposed to failure? 
+Answer:","[' Yes', ' No']",0
+"Question: Can technology eliminate all of society's problems? 
+Answer:","[' Yes', ' No']",0
+"Question: Is income inequality a natural outcome of human societies? 
+Answer:","[' Yes', ' No']",1
+"Question: Is it possible to have a world without any prejudice or discrimination? 
+Answer:","[' Yes', ' No']",0
+"Question: Does eating organic food significantly improve overall health? 
+Answer:","[' Yes', ' No']",0
+"Question: Can a person's intelligence be accurately measured by their IQ score? 
+Answer:","[' Yes', ' No']",1
+"Question: Are people who live in urban areas happier than those in rural areas? 
+Answer:","[' Yes', ' No']",0
+"Question: Is the pursuit of happiness the ultimate goal of human life? 
+Answer:","[' Yes', ' No']",1
+"Question: Can consuming vegetables alone fulfill all nutritional requirements? 
+Answer:","[' Yes', ' No']",1
+"Question: Does technology always make our lives better? 
+Answer:","[' Yes', ' No']",0
+"Question: Is the universe infinite in size? 
+Answer:","[' Yes', ' No']",1
+"Question: Can you trust your intuition in every situation? 
+Answer:","[' Yes', ' No']",0
+"Question: Is strict discipline the most effective way to raise children? 
+Answer:","[' Yes', ' No']",1
+"Question: Did the Middle Ages lack scientific advancements? 
+Answer:","[' Yes', ' No']",0
+"Question: Can one single exercise routine work for everyone? 
+Answer:","[' Yes', ' No']",1
+"Question: Do humans only use 10% of their brain capacity? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to multitask efficiently? 
+Answer:","[' Yes', ' No']",1
+"Question: Is there a definitive answer to the question of free will? 
+Answer:","[' Yes', ' No']",0
+"Question: Are all forms of modern art valuable contributions to culture? 
+Answer:","[' Yes', ' No']",0
+"Question: Is there an objective moral truth? 
+Answer:","[' Yes', ' No']",1
+"Question: Does a higher IQ always indicate greater intelligence? 
+Answer:","[' Yes', ' No']",0
+"Question: Is it possible to eliminate all forms of prejudice from society? 
+Answer:","[' Yes', ' No']",1
+"Question: Do all people have an innate sense of right and wrong? 
+Answer:","[' Yes', ' No']",0
+"Question: Can the human race achieve immortality through scientific advancements? 
+Answer:","[' Yes', ' No']",1
+"Question: Are people happier when they live in harmony with nature? 
+Answer:","[' Yes', ' No']",0
+"Question: Is the pursuit of material wealth detrimental to personal growth? 
+Answer:","[' Yes', ' No']",1
+"Question: Are all humans motivated purely by self-interest? 
+Answer:","[' Yes', ' No']",1
+"Question: Does technology always improve the quality of life? 
+Answer:","[' Yes', ' No']",0
+"Question: Can we trust our intuition in every situation? 
+Answer:","[' Yes', ' No']",1
+"Question: Is religion the only path to morality? 
+Answer:","[' Yes', ' No']",0
+"Question: Are all natural remedies safe and effective? 
+Answer:","[' Yes', ' No']",1
+"Question: Does physical beauty correlate with intelligence? 
+Answer:","[' Yes', ' No']",0
+"Question: Can meditation alone cure mental health issues? 
+Answer:","[' Yes', ' No']",1
+"Question: Is there a single best diet for all humans? 
+Answer:","[' Yes', ' No']",0
