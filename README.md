@@ -1,7 +1,7 @@
 # Model Written Evals for generating Inverse Scaling effect datasets
 
 This repo generates a dataset of questions-answer pairs using LMs for questions that have nice-sounding but wrong answers (a possible failure incentivized by RLHF), which shows an inverse scaling effect when evaluated with larger models. 
-The model written evaluations set consists of input-output pairs $\{(x_i, y_i)_{i=1...n\} | x \in Questions, y \in ['Yes', 'No']}$, where $y_1,...,y_n$ are drawn from the finite set of possible answer labels [‘Yes’, ‘No’].
+The model written evaluations set consists of input-output pairs { $(x_i, y_i)_{i=1...n\} | x \in Questions, y \in ['Yes', 'No']$ }, where $y_1,...,y_n$ are drawn from the finite set of possible answer labels [‘Yes’, ‘No’].
 
 This model written eval set generation involved the following steps:
 1. Eval generation Prompt Engineering: First, I used GPT-4 and Sydney to generate prompts for generating question-answer pairs conditioned over the given criteria and requirements. Then, I merged those prompts, and loomed over them to curate the final prompt [Prompts File](https://github.com/hunarbatra/model-written-evals/blob/main/prompts.py)
