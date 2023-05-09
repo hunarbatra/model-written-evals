@@ -1,6 +1,7 @@
 # Model Written Evals for generating Inverse Scaling effect datasets
 
 This repo generates a dataset of questions-answer pairs using LMs for questions that have nice-sounding but wrong answers (a possible failure incentivized by RLHF), which shows an inverse scaling effect when evaluated with larger models. 
+This project is inspired by '[Discovering Language Model Behaviors with Model-Written Evaluations](https://cdn2.assets-servd.host/anthropic-website/production/files/model-written-evals.pdf)' by Perez et. al
 The model written evaluations set consists of input-output pairs { $(x_i, y_i)_{i=1...n\} | x \in Questions, y \in ['Yes', 'No']$ }, where $y_1,...,y_n$ are drawn from the finite set of possible answer labels [‘Yes’, ‘No’].
 
 This model written eval set generation involved the following steps:
@@ -40,6 +41,10 @@ Code organisation–
 	/clean.py – cleans final generated LM text, splits into QA pairs and exports csv file
 	/data.txt – final generated LM text via steering
 	/logodds-dataset.csv – logodds metric dataset
+/results - evaluation results for base and feedme models
+/plots
+	/plot-base-feedme.py - script to generate a line chart of base vs. feedme models accuracy vs. model size
+	/Inverse_Scaling_GPT_3_Colab.ipynb - colab notebook for generating classification loss and logodd charts (credit: [Inverse Scaling](https://github.com/inverse-scaling/) Prize Notebook)
 /eval_generation.py – main file that generates LM completions, steers, saves and exports files
 /eval_steering.py – prompt-tuned steering to selected one of the n samples
 /model.py – defines models including base model (code-davinci-002) & chat (gpt-3.5-turbo/4)
