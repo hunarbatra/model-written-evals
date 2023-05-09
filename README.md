@@ -17,8 +17,8 @@ AI Steering provides automated scalable oversight for the dataset generation to 
 </center>
 
 <div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/35395835/236964480-3df469bd-5375-46b1-89a5-f0a91bfad420.png" style="flex: 50%; padding: 5px; width: 500px; height: 515px">
-  <img src="https://user-images.githubusercontent.com/35395835/236920864-7cb40d90-e516-4dc7-be5a-6ce327370562.png" style="flex: 50%; padding: 5px; width: 500px; height: 515px">
+  <img src="https://user-images.githubusercontent.com/35395835/236964480-3df469bd-5375-46b1-89a5-f0a91bfad420.png" style="flex: 50%; padding: 5px; width: 400px; height: 415px">
+  <img src="https://user-images.githubusercontent.com/35395835/236920864-7cb40d90-e516-4dc7-be5a-6ce327370562.png" style="flex: 50%; padding: 5px; width: 400px; height: 415px">
 </div>
 
 <!-- ![Screenshot 2023-05-09 at 12 59 29 am](https://user-images.githubusercontent.com/35395835/236964480-3df469bd-5375-46b1-89a5-f0a91bfad420.png)
