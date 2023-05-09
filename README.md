@@ -24,6 +24,7 @@ AI Steering provides automated scalable oversight for the dataset generation to 
 <!-- ![Screenshot 2023-05-09 at 12 59 29 am](https://user-images.githubusercontent.com/35395835/236964480-3df469bd-5375-46b1-89a5-f0a91bfad420.png)
 ![Screenshot 2023-05-09 at 12 59 55 am](https://user-images.githubusercontent.com/35395835/236920864-7cb40d90-e516-4dc7-be5a-6ce327370562.png) -->
 4. Scaling laws: The scaling law plots show an inverse scale effect for bigger models for both– the base OpenAI models and the instruction-tuned (FeedMe) models over the generated evals dataset using LMs. 
+![base-vs-feedme](https://github.com/hunarbatra/model-written-evals/assets/35395835/a63623e8-ebb6-41d6-94b1-e1d836880c0a)
 ![download (1)](https://user-images.githubusercontent.com/35395835/236920988-899ed73f-4c11-433d-b3d7-3cb2c89a5c09.png)
 ![download (2)](https://user-images.githubusercontent.com/35395835/236921000-90f9aa0d-4153-4fe6-ac57-34ca221e699a.png)
 ![logodds-base](https://user-images.githubusercontent.com/35395835/236964495-7e90f423-4652-47ab-b984-6b866a3eba45.png)
