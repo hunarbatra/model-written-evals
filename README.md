@@ -33,19 +33,19 @@ AI Steering provides automated scalable oversight for the dataset generation to 
 Code organisation–
 ```
 /dataset
-	atlas-data-visualisation.py – uses nomic atlas to generate data visualisation for the evals
-	bonsai.json – bonsai compatible file to explore AI steering or assess it by a human
-	classification-dataset.csv – classification score eval dataset
-	clean.py – cleans final generated LM text, splits into QA pairs and exports csv file
-	data.txt – final generated LM text via steering
-	logodds-dataset.csv – logodds metric dataset
-eval_generation.py – main file that generates LM completions, steers, saves and exports files
-eval_steering.py – prompt-tuned steering to selected one of the n samples
-model.py – defines models including base model (code-davinci-002) & chat (gpt-3.5-turbo/4)
-prompts.py – defines diff. prompts used: main_prompt, system_prompt, ai_steering_prompt
-test_config.py – save this as config.py and add your api_keys here
-utils.py – basic util operations
-bonsai_export.py – generates a bonsai (web version of LOOM) compatible json file
+	/atlas-data-visualisation.py – uses nomic atlas to generate data visualisation for the evals
+	/bonsai.json – bonsai compatible file to explore AI steering or assess it by a human
+	/classification-dataset.csv – classification score eval dataset
+	/clean.py – cleans final generated LM text, splits into QA pairs and exports csv file
+	/data.txt – final generated LM text via steering
+	/logodds-dataset.csv – logodds metric dataset
+/eval_generation.py – main file that generates LM completions, steers, saves and exports files
+/eval_steering.py – prompt-tuned steering to selected one of the n samples
+/model.py – defines models including base model (code-davinci-002) & chat (gpt-3.5-turbo/4)
+/prompts.py – defines diff. prompts used: main_prompt, system_prompt, ai_steering_prompt
+/test_config.py – save this as config.py and add your api_keys here
+/utils.py – basic util operations
+/bonsai_export.py – generates a bonsai (web version of LOOM) compatible json file
 ```
 
 Further exploration:
