@@ -17,6 +17,7 @@ AI Steering provides automated scalable oversight for the dataset generation to 
 ![download (1)](https://user-images.githubusercontent.com/35395835/236920988-899ed73f-4c11-433d-b3d7-3cb2c89a5c09.png)
 ![download (2)](https://user-images.githubusercontent.com/35395835/236921000-90f9aa0d-4153-4fe6-ac57-34ca221e699a.png)
 ![logodds-base](https://user-images.githubusercontent.com/35395835/236964495-7e90f423-4652-47ab-b984-6b866a3eba45.png)
+![Screenshot 2023-05-09 at 6 51 16 pm](https://github.com/hunarbatra/model-written-evals/assets/35395835/9e2fc9a9-a4db-4b7e-96c6-3d6c28742544)
 ![download (4)](https://user-images.githubusercontent.com/35395835/236964502-0bfac6bd-4185-455d-a3df-6f4d0a69ee3c.png)
 
 Code organisation–
@@ -40,5 +41,6 @@ bonsai_export.py – generates a bonsai (web version of LOOM) compatible json fi
 Further exploration:
 Using the same approach, I created a model written evals set for propositional logic (disjunctive syllogism task) question-answer pairs with the possible labels of [‘Yes’, ‘No’]. Dataset [link](https://docs.google.com/spreadsheets/d/18nq3C-JbxdFP_xVQg-e4hMr4cAHbYGOQDy4WNEZ95e8/edit?usp=sharing). Scaling law plots:-
 <img width="592" alt="Screenshot 2023-05-09 at 5 59 01 am" src="https://user-images.githubusercontent.com/35395835/236964584-7dd9145f-1d82-4c6e-ad8c-36bb78503d83.png">
+![Screenshot 2023-05-09 at 6 51 16 pm](https://github.com/hunarbatra/model-written-evals/assets/35395835/9e2fc9a9-a4db-4b7e-96c6-3d6c28742544)
 
 
