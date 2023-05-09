@@ -10,9 +10,19 @@ $$\prod_{t=1}^N \max_{t,i} AIRank(x_t|y_i,x_{1:t-1})$$
 AI Steering provides automated scalable oversight for the dataset generation to filter and steer through the most likely question-answer pairs for the given criteria. Dataset generation and steering has been performed using gpt-3.5-turbo with temperature 1.0 for QA pair generation and temperature 0.0 for AI steering. 
 ![Screenshot 2023-05-08 at 9 44 56 am](https://user-images.githubusercontent.com/35395835/236920823-897edc19-a693-4509-abc9-f8240ff93996.png)
 3. Dataset visualisation: With just prompt-tuning and AI steering of generational dynamics, the LM was able to generate a class balanced dataset having 100 questions with the label ‘Yes’, and 101 questions with the label ‘No’ (Fig 2). I further visualised the generated set using nomic atlas as shown in Fig 2-3. (data visualisation can be accessed and explored [here](https://atlas.nomic.ai/map/b97880be-8595-4dc8-b42b-54bdfe2febb2/1599b66f-f57b-41b2-b06a-3fcb0730b6a7) using nomic’s atlas)
-![download (3)](https://user-images.githubusercontent.com/35395835/236920840-4cc21609-b492-44a0-803d-43c0037fce6c.png)
-![Screenshot 2023-05-09 at 12 59 29 am](https://user-images.githubusercontent.com/35395835/236964480-3df469bd-5375-46b1-89a5-f0a91bfad420.png)
-![Screenshot 2023-05-09 at 12 59 55 am](https://user-images.githubusercontent.com/35395835/236920864-7cb40d90-e516-4dc7-be5a-6ce327370562.png)
+![download (3)]){: width="250px" height="250px"}
+
+<center>
+	<img src="https://user-images.githubusercontent.com/35395835/236920840-4cc21609-b492-44a0-803d-43c0037fce6c.png" style="padding: 5px; width: 400px;">
+</center>
+
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/35395835/236964480-3df469bd-5375-46b1-89a5-f0a91bfad420.png" style="flex: 50%; padding: 5px; width: 500px; height: 515px">
+  <img src="https://user-images.githubusercontent.com/35395835/236920864-7cb40d90-e516-4dc7-be5a-6ce327370562.png" style="flex: 50%; padding: 5px; width: 500px; height: 515px">
+</div>
+
+<!-- ![Screenshot 2023-05-09 at 12 59 29 am](https://user-images.githubusercontent.com/35395835/236964480-3df469bd-5375-46b1-89a5-f0a91bfad420.png)
+![Screenshot 2023-05-09 at 12 59 55 am](https://user-images.githubusercontent.com/35395835/236920864-7cb40d90-e516-4dc7-be5a-6ce327370562.png) -->
 4. Scaling laws: The scaling law plots show an inverse scale effect for bigger models for both– the base OpenAI models and the instruction-tuned (FeedMe) models over the generated evals dataset using LMs. 
 ![download (1)](https://user-images.githubusercontent.com/35395835/236920988-899ed73f-4c11-433d-b3d7-3cb2c89a5c09.png)
 ![download (2)](https://user-images.githubusercontent.com/35395835/236921000-90f9aa0d-4153-4fe6-ac57-34ca221e699a.png)
